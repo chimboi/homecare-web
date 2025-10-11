@@ -8,6 +8,8 @@ Este es un sitio web completamente estático generado desde WordPress usando el 
 
 ## 🚀 Despliegue en Vercel
 
+> Actualización 2024-10-10: se agregó este bloque para forzar un nuevo build desde GitHub y verificar la integración con Vercel.
+
 ### Opción 1: Despliegue desde CLI
 
 1. Instala Vercel CLI (si no lo tienes):
